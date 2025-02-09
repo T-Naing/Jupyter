@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/T-Naing/Jupyter/HEAD?urlpath=%2Fdoc%2Ftree%2FEDA_pharma_retails_2015%2FEDA_pharma_retails_2015.ipynb)
